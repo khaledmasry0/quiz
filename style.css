@@ -16,7 +16,7 @@ body{
     width: 800px;
     background-color: #480a4a;
     padding: 15px;
-    box-shadow: 0 0 3px 50px #480a4a;
+    box-shadow: 0 0 3px 15px #480a4a;
 }
 @media(max-width:676px){
     .quiz-app{
