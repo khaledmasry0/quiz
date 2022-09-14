@@ -1,0 +1,74 @@
+[
+    {
+        "question":"what is my middle name ",
+        "ans_1":"khaled",
+        "ans_2":"mohamed",
+        "ans_3":"sayed",
+        "ans_4":"mohamed mouneir",
+        "ra":"mohamed"
+    },
+    {
+        "question":"what is my fav hobby ",
+        "ans_1":"football",
+        "ans_2":"reading",
+        "ans_3":"chess",
+        "ans_4":"mohamed mouneir",
+        "ra":"chess"
+    },
+    {
+        "question":"what is my percentage in high school ",
+        "ans_1":"95",
+        "ans_2":"80",
+        "ans_3":"91",
+        "ans_4":"mohamed mouneir",
+        "ra":"91"
+    },
+    {
+        "question":"what is the collage i graduated ",
+        "ans_1":"commerce",
+        "ans_2":"science",
+        "ans_3":"ingeneering",
+        "ans_4":"mohamed mouneir",
+        "ra":"science"
+    },
+    {
+        "question":"where do i live ",
+        "ans_1":"cairo",
+        "ans_2":"giza",
+        "ans_3":"cairo and giza",
+        "ans_4":"mohamed mouneir",
+        "ra":"cairo and giza"
+    },
+    {
+        "question":" did you know me ",
+        "ans_1":"yes",
+        "ans_2":"no",
+        "ans_3":"yes and no",
+        "ans_4":"mohamed mouneir",
+        "ra":"mohamed mouneir"
+    },
+    {
+        "question":"are you sure you know me ",
+        "ans_1":"yes",
+        "ans_2":"no",
+        "ans_3":"yes and no",
+        "ans_4":"mohamed mouneir",
+        "ra":"mohamed mouneir"
+    },
+    {
+        "question":"do you beleive in me ",
+        "ans_1":"yes",
+        "ans_2":"no",
+        "ans_3":"sometimes",
+        "ans_4":"mohamed mouneir",
+        "ra":"mohamed mouneir"
+    },
+    {
+        "question":" who is my fav singer ",
+        "ans_1":"mohamed mouneir",
+        "ans_2":"mohamed mouneir",
+        "ans_3":"mohamed mouneir",
+        "ans_4":"abelhaleem",
+        "ra":"abelhaleem"
+    }
+]
