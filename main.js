@@ -20,7 +20,7 @@ function getfile() {
 
       addquestiondata(req[currentindex], reqlength);
 
-      countdown(5, reqlength); //countdown #######################################
+      countdown(30, reqlength); //countdown #######################################
 
       submit.onclick = function () {
         let ranswer = req[currentindex].ra;
@@ -32,7 +32,7 @@ function getfile() {
         ansarea.innerHTML = "";
 
         clearInterval(countdownnum);
-        countdown(5, reqlength); //countdown ######################################
+        countdown(30, reqlength); //countdown ######################################
 
         addquestiondata(req[currentindex], reqlength);
 
