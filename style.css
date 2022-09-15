@@ -112,7 +112,6 @@ body{
 }
 .results{
     text-align: center;
-    padding: 15px;
     background-color: #fff;
     margin-top: 15px;
 }
@@ -121,6 +120,7 @@ body{
     font-size: 25px;
     color: #0075ff;
     padding-bottom: 15px;
+    padding-top: 15px;
 }
 .results span{
     font-weight: bold;
