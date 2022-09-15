@@ -61,6 +61,7 @@ body{
     margin-left: 5px;
     position: relative;
     top: -1px;
+    letter-spacing: 0.7px;
 }
 .quiz-app .submit{
     background-color: #0075ff;
