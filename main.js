@@ -137,6 +137,7 @@ function showresults(count) {
     let word = document.createTextNode("RESULTS");
     addword.appendChild(word);
     resultbox.prepend(addword);
+    resultbox.style.cssText = "padding:15px";
   }
 }
 function countdown(duration, count) {
