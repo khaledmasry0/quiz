@@ -1,82 +1,82 @@
 [
     {
-        "question":"what is my middle name ",
-        "ans_1":"khaled",
-        "ans_2":"mohamed",
-        "ans_3":"sayed",
-        "ans_4":"mohamed mouneir",
-        "ra":"mohamed"
+        "question":" How do you create an object in J.S that has no protoype",
+        "ans_1":"Object.create(undefined)",
+        "ans_2":"new Object()undefined",
+        "ans_3":"Object.create(null)",
+        "ans_4":"new Object(null)",
+        "ra":"Object.create(null)"
     },
     {
-        "question":"what is my fav hobby ",
-        "ans_1":"football",
-        "ans_2":"reading",
-        "ans_3":"chess",
-        "ans_4":"mohamed mouneir",
-        "ra":"chess"
+        "question":"Which of these is true about visibility : hidden in CSS",
+        "ans_1":"it occupies space",
+        "ans_2":"it is removed from layout flow",
+        "ans_3":"it can still be clicked on",
+        "ans_4":"it is the same as opacity : 0",
+        "ra":"it occupies space"
     },
     {
-        "question":"what is my percentage in high school ",
-        "ans_1":"95",
-        "ans_2":"80",
-        "ans_3":"91",
-        "ans_4":"mohamed mouneir",
-        "ra":"91"
+        "question":"How many bytes is an unsigned short in C",
+        "ans_1":"8",
+        "ans_2":"1",
+        "ans_3":"4",
+        "ans_4":"2",
+        "ra":"2"
     },
     {
-        "question":"what is the collage i graduated ",
-        "ans_1":"commerce",
-        "ans_2":"science",
-        "ans_3":"ingeneering",
-        "ans_4":"mohamed mouneir",
-        "ra":"science"
+        "question":"In what order are margin and padding defined in CSS",
+        "ans_1":"Right, Bottom, Left, Top",
+        "ans_2":"Top, Bottom, Left, Right",
+        "ans_3":"Top, Right, Bottom, Left",
+        "ans_4":"Left, Right, Top, Bottom",
+        "ra":"Top, Right, Bottom, Left"
     },
     {
-        "question":"where do i live ",
-        "ans_1":"cairo",
-        "ans_2":"giza",
-        "ans_3":"cairo and giza",
-        "ans_4":"mohamed mouneir",
-        "ra":"cairo and giza"
+        "question":"Which of the following is not a React hook",
+        "ans_1":"useDrivedStateFromProps",
+        "ans_2":"useDebugValue",
+        "ans_3":"useLayoutEffect",
+        "ans_4":"useImpertiveHandle",
+        "ra":"useDrivedStateFromProps"
     },
     {
-        "question":" did you know me ",
-        "ans_1":"yes",
-        "ans_2":"no",
-        "ans_3":"yes and no",
-        "ans_4":"mohamed mouneir",
-        "ra":"mohamed mouneir"
+        "question":"Which of the following is false",
+        "ans_1":"new String('') == ''",
+        "ans_2":"new String('') instanceof Object",
+        "ans_3":"String ('') instanceof String",
+        "ans_4":"Srting('') === ''",
+        "ra":"String ('') instanceof String"
     },
     {
-        "question":"are you sure you know me ",
-        "ans_1":"yes",
-        "ans_2":"no",
-        "ans_3":"yes and no",
-        "ans_4":"mohamed mouneir",
-        "ra":"mohamed mouneir"
+        "question":"What does this function return if you pass 2 as x ...... function f(x){ x++ (x=x-3) && ++x  return x-- }",
+        "ans_1":"-1",
+        "ans_2":"1",
+        "ans_3":"2",
+        "ans_4":"0",
+        "ra":"0"
     },
     {
-        "question":"do you beleive in me ",
-        "ans_1":"yes",
-        "ans_2":"no",
-        "ans_3":"sometimes",
-        "ans_4":"mohamed mouneir",
-        "ra":"mohamed mouneir"
+        "question":"Which of these creates a stacking context in CSS",
+        "ans_1":"z-index: 10",
+        "ans_2":"opacity: 1",
+        "ans_3":"position: sticky",
+        "ans_4":"order: 4",
+        "ra":"position: sticky"
     },
     {
-        "question":" which is the biggest ",
-        "ans_1":"ocean",
-        "ans_2":"earth",
-        "ans_3":"galaxy",
-        "ans_4":"mohamed mouneir",
-        "ra":"galaxy"
+        "question":"If you apply margin on an inline element which sides will it apply to",
+        "ans_1":"only top and bottom",
+        "ans_2":"only left and right",
+        "ans_3":"all sides",
+        "ans_4":"no sides",
+        "ra":"only left and right"
     },
     {
-        "question":" who is my fav singer ",
-        "ans_1":"mohamed mouneir",
-        "ans_2":"mohamed mouneir",
-        "ans_3":"mohamed mouneir",
-        "ans_4":"abelhaleem",
-        "ra":"abelhaleem"
+        "question":"How many threads does J.S code run in",
+        "ans_1":"8",
+        "ans_2":"2",
+        "ans_3":"no set number",
+        "ans_4":"1",
+        "ra":"1"
     }
 ]
